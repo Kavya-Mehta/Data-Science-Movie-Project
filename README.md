@@ -61,6 +61,3 @@ Developed as part of the INFO 6105 course under **Professor Dino**, this project
 
 ---
 
-## 📁 Repository Structure
-
-# Data-Science-Movie-Project
